@@ -1,2 +1,2 @@
 # CSES
-My solution some cses problem !
+My solutions some cses problems !
